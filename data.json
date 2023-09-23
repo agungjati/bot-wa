@@ -1,0 +1,12 @@
+[
+    {
+        "no_pemeriksaan": "1000000",
+        "nama_lengkap": "Agung",
+        "status": "selesai"
+    },
+    {
+        "no_pemeriksaan": "1000001",
+        "nama_lengkap": "Bimo",
+        "status": "proses"
+    }
+]
